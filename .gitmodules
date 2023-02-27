@@ -1,3 +1,6 @@
 [submodule "experiment"]
 	path = experiment
 	url = https://github.com/22ALR047/experiment.git
+[submodule "oswd"]
+	path = oswd
+	url = ./oswd/
